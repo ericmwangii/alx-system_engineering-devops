@@ -1,0 +1,31 @@
+total 112
+drwxr-xr-x 2 ericm ericm 4096 Apr  4 12:44 .
+drwxr-xr-x 6 ericm ericm 4096 Apr  4 11:46 ..
+-rwxr--r-- 1 ericm ericm   30 Apr  4 12:18 0-hello_world
+-rw-r--r-- 1 ericm ericm   46 Apr  4 11:52 10-no_more_js
+-rw-r--r-- 1 ericm ericm   52 Apr  4 11:54 11-directories
+-rw-r--r-- 1 ericm ericm   30 Apr  4 11:54 12-newest_files
+-rw-r--r-- 1 ericm ericm   27 Apr  4 11:55 13-unique
+-rw-r--r-- 1 ericm ericm   36 Apr  4 11:55 14-findthatworld
+-rw-r--r-- 1 ericm ericm   38 Apr  4 11:56 15-countthatworld
+-rw-r--r-- 1 ericm ericm   41 Apr  4 11:57 16-whatsnext
+-rw-r--r-- 1 ericm ericm   38 Apr  4 11:57 17-hidethisworld
+-rw-r--r-- 1 ericm ericm   51 Apr  4 11:58 18-letteronly
+-rw-r--r-- 1 ericm ericm   36 Apr  4 11:58 19-AZ
+-rwxr--r-- 1 ericm ericm   28 Apr  4 11:47 1-confused_smiley
+-rw-r--r-- 1 ericm ericm   34 Apr  4 11:59 20-hiago
+-rw-r--r-- 1 ericm ericm   16 Apr  4 12:00 21-reverse
+-rw-r--r-- 1 ericm ericm   46 Apr  4 12:00 22-users_and_homes
+-rwxr-xr-x 1 ericm ericm   28 Apr  4 11:47 2-hellofile
+-rw-r--r-- 1 ericm ericm    0 Apr  4 11:40 2-hellofile~
+-rw-r--r-- 1 ericm ericm   39 Apr  4 12:20 3-twofiles
+-rw-r--r-- 1 ericm ericm   29 Apr  4 12:37 4-lastlines
+-rw-r--r-- 1 ericm ericm   29 Apr  4 12:38 5-firstlines
+-rwxr--r-- 1 ericm ericm   37 Apr  4 12:39 6-third_line
+-rwxr--r-- 1 ericm ericm   80 Apr  4 12:42 7-file
+-rwxr--r-- 1 ericm ericm   36 Apr  4 11:51 8-cwd_state
+-rw-r--r-- 1 ericm ericm   37 Apr  4 11:52 9-duplicate_last_line
+-rw-r--r-- 1 ericm ericm   12 Apr  4 12:42 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ericm ericm 1904 Apr  4 11:49 iacta
+-rw-r--r-- 1 ericm ericm    0 Apr  4 12:44 ls_cwd_content
+-rw-r--r-- 1 ericm ericm   19 Apr  4 11:18 README.md
